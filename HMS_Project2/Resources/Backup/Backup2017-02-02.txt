@@ -1,0 +1,5 @@
+890 0 AC  01 900null 
+100 0 AC  01 800null 
+101 0 AC  02 6000null 
+102 0 Non-AC  03 700null 
+105 0 AC  03 1000null 
